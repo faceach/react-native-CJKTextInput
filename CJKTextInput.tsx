@@ -13,7 +13,7 @@ interface IState {
 }
 
 /**
- * TODO:
+ * Important:
  * Remove this module after upgrade to v0.57
  * 
  * v0.57 ChangeLogs:

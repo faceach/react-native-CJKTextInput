@@ -1,0 +1,22 @@
+{
+    "name": "react-native-cjktextinput",
+    "version": "0.1.0",
+    "repository": {
+        "url": "https://github.com/faceach/react-native-CJKTextInput.git",
+        "type": "git"
+    },
+    "author": "faceach@outlook.com",
+    "license": "UNLICENSED",
+    "private": false,
+    "dependencies": {
+        "react": "16.6.1",
+        "react-native": "0.57.5"
+    },
+    "devDependencies": {
+        "@types/react": "^16.2.0",
+        "@types/react-native": "^0.57.14",
+        "tslint": "^5.9.1",
+        "tslint-language-service": "^0.9.9",
+        "typescript": "^2.8.1"
+    }
+}
